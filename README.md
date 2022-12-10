@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miyukaza
+# Hello, I am Miyukaza :)
 
 ![Miyukaza github stats](https://github-readme-stats.vercel.app/api?username=Miyukaza&theme=dracula&show_icons=true&count_private=true)
     
